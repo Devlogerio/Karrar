@@ -1,3 +1,22 @@
+##########################
+# Unreal Generated Files *
+##########################
+*/Binaries
+*/Build
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+**/xcuserdata
+Karrar/Content/StarterContent
+#Karrar/Content/LandScapeLayers
+#Karrar/Content/Materials
+Karrar/Content/Images
+Karrar/Content/Levels
+Karrar/Content/LandScapeLayers
+
+##################################################
+############ Git Suggestion ######################
+##################################################
 # Visual Studio 2015 user specific files
 .vs/
 
