@@ -2,13 +2,13 @@
 
 Note: Karrar is one of the most advanced tanks in the world, mass produced by Iran in 2017 based on Russian T90 model.
 
-# CONCEPT
+# Concept
 
 A realistic war game in which the player is going to take control of a Karrar tank equipped with a turret cannon and a machine gun.
 He/she should pass through different environment obstacles and attack enemy base that is heavily defended.
 as a second game mode (defend to death): The player is going to hold the enemy back behind the forefront border as long as he can to break a record (Time of survival).
 
-# RULES
+# Rules
 
 The Karrar spawns far away from enemy.
 The Karrar is able to move anywhere in the terrain freely unless the map is constraint.
@@ -24,7 +24,7 @@ Shots has a drop down
 Aiming is not accurate
 Buildings and walls can be destructed
 
-# REQUIREMENTS
+# Requirements
 
 ## Assets
 Note: I bought the blender creator and blender character creator rigging course(from Ben) to just do that in few months.
