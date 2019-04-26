@@ -8,12 +8,14 @@
 */Saved
 **/xcuserdata
 Karrar/Content/StarterContent
+Karrar/Content/Images
+
+############ Ignore Potentials ###################
 #Karrar/Content/LandScapeLayers
 #Karrar/Content/Materials
-Karrar/Content/Images
-Karrar/Content/Levels
-Karrar/Content/LandScapeLayers
-Karrar/Content/OfficialAssets
+#Karrar/Content/Levels
+#Karrar/Content/LandScapeLayers
+#Karrar/Content/OfficialAssets
 
 ##################################################
 ############ Git Suggestion ######################
