@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class MyProject2Target : TargetRules
+public class karrarTarget : TargetRules
 {
-	public MyProject2Target(TargetInfo Target) : base(Target)
+	public karrarTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 
-		ExtraModuleNames.AddRange( new string[] { "MyProject2" } );
+		ExtraModuleNames.AddRange( new string[] { "karrar" } );
 	}
 }

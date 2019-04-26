@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class MyProject2 : ModuleRules
+public class karrar : ModuleRules
 {
-	public MyProject2(ReadOnlyTargetRules Target) : base(Target)
+	public karrar(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

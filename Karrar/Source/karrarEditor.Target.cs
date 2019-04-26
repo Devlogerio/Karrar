@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class MyProject2EditorTarget : TargetRules
+public class karrarEditorTarget : TargetRules
 {
-	public MyProject2EditorTarget(TargetInfo Target) : base(Target)
+	public karrarEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 
-		ExtraModuleNames.AddRange( new string[] { "MyProject2" } );
+		ExtraModuleNames.AddRange( new string[] { "karrar" } );
 	}
 }

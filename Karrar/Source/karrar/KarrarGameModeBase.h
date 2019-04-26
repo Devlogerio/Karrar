@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "MyProject2GameModeBase.generated.h"
+#include "KarrarGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class MYPROJECT2_API AMyProject2GameModeBase : public AGameModeBase
+class KARRAR_API AKarrarGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
